@@ -46,8 +46,7 @@ export const HeroByAnima = (): JSX.Element => {
         <div className="w-full h-[57px] bg-[#000000c9] backdrop-blur-[9.05px]">
           <div className="container mx-auto flex justify-between items-center h-full px-6">
             <div className="flex items-center space-x-4 opacity-[0.23]">
-              <img className="h-[57px]" alt="Image" src="/image-146.png" />
-              <img className="h-[57px]" alt="Image" src="/image-147-1.png" />
+              <img className="h-[57px]" alt="Image" src="/left01.png" />
             </div>
 
             <div className="flex items-center justify-center">
@@ -60,16 +59,16 @@ export const HeroByAnima = (): JSX.Element => {
                 <img
                   className="absolute w-[216px] h-[57px] top-0 left-[108px]"
                   alt="Image"
-                  src="/image-173.png"
+                  src="/mid.png"
                 />
                 <img
                   className="absolute w-[188px] h-[57px] top-0 left-[322px]"
                   alt="Image"
-                  src="/image-175.png"
+                  src="/right01.png"
                 />
                 <div className="absolute top-2 left-[15px] [font-family:'LEMON_MILK-Regular',Helvetica] font-normal text-transparent text-base tracking-[0] leading-4">
                   <span className="text-white leading-5">
-                    In dewaron mein
+                    IN DEWARON MEIN
                     <br />
                   </span>
                   <span className="text-black leading-5">TIGER</span>
@@ -81,7 +80,7 @@ export const HeroByAnima = (): JSX.Element => {
             <div className="flex items-center space-x-6">
               <div className="flex items-center gap-1">
                 <div className="[font-family:'Helvetica_Neue-Medium',Helvetica] font-medium text-white text-sm whitespace-nowrap">
-                  Employee Login
+                  Emploved Login
                 </div>
               </div>
 
@@ -93,7 +92,7 @@ export const HeroByAnima = (): JSX.Element => {
                     src="/ri-global-line.svg"
                   />
                   <span className="ml-1 [font-family:'Inter',Helvetica] font-normal text-white text-xs text-center whitespace-nowrap">
-                    Global(English)
+                    Global (English)
                   </span>
                 </div>
                 <img
@@ -134,7 +133,7 @@ export const HeroByAnima = (): JSX.Element => {
               <div className="w-[216px] h-14 bg-[#ffffff47] rounded-[100px] overflow-hidden backdrop-blur-[2px] flex items-center px-7">
                 <SearchIcon className="w-5 h-5 text-white" />
                 <span className="ml-2 [font-family:'Inter',Helvetica] font-light text-[#ffffffa6] text-[15.3px]">
-                  SearchIcon here...
+                  Search here...
                 </span>
               </div>
             </div>
