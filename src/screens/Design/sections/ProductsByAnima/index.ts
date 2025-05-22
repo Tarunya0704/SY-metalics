@@ -1,0 +1,1 @@
+export { ProductsByAnima } from "./ProductsByAnima";

@@ -1,0 +1,1 @@
+export { LocationByAnima } from "./LocationByAnima";
